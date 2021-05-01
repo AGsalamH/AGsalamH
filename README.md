@@ -4,7 +4,7 @@
 </div>
 
 
-- 🏢 CS student [AGsalamH](https://www.linkedin.com/in/ahmed-gamal-94174b160/)
+- 🏢 I'm a CS student
 - 🧰 I build with: `Python`, `JavaScript`, `Express.js`, `MongoDB`, `Django` ...
 - ✏ Currently learning React.js
 - 📫 Reach out to me: agsalamh@gmail.com
