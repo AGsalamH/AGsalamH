@@ -1,6 +1,6 @@
 
 - 🏢 CS Fresh graduate
-- 🧰 I build with: `Python`, `JavaScript`, `Express.js`, `MongoDB`, `Django`, `DjangoRestFramework`
+- 🧰 I build with: `Python`, `Django`, `DjangoRestFramework`, `JavaScript`, `Node.js`, `Express.js`, `MongoDB` 
 - ✏ Currently learning `Vue.js` & `Docker`
 - 📫 Reach out to me: agsalamh@gmail.com
 
