@@ -9,7 +9,7 @@
 
 ```javascript
 const jemy = {
-    Code: [Python, Javascript],
+    Code: ["Python", "Javascript"],
     technologies: {
         frontEnd: {
             frameworks: ["Vue.js"]
