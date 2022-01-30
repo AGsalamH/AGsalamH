@@ -1,7 +1,30 @@
+## Hi there 👋 Welcome to my GitHub! I'm Ahmed Gamal, Web developer
 
-- 🏢 CS Fresh graduate
-- 🧰 I build with: `Python`, `Django`, `DjangoRestFramework`, `JavaScript`, `Node.js`, `Express.js`, `MongoDB` 
-- ✏ Currently learning `Vue.js` & `Docker`
-- 📫 Reach out to me: agsalamh@gmail.com
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agsalamh/)
+![Twitter Follow](https://img.shields.io/twitter/follow/agsalamh?style=social)
+[![Linkedin: agsalamh](https://img.shields.io/badge/-agsalamh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agsalamh/)](https://www.linkedin.com/in/agsalamh/)
+![](https://visitor-badge.glitch.me/badge?page_id=agsalamh.agsalamh)
+
+### aboutMe.js
+
+```javascript
+const jemy = {
+    Code: [Python, Javascript],
+    technologies: {
+        frontEnd: {
+            frameworks: ["Vue.js"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["Django", "DjangoRestFramework"]
+        },
+        tools: ["Docker", "GIT", "VScode"],
+    },
+    learning: ["Docker", "Vue.js"],
+    contact: "agsalamh@gmail.com"
+};
+```
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
