@@ -25,6 +25,20 @@ const jemy = {
 };
 ```
 
+## &#x1f4c8; GitHub Stats
+<br>
+
+<a href="https://github.com/agsalamh">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=agsalamh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ahmed's GitHub Stats" />
+</a>
+<a href="https://github.com/agsalamh">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agsalamh&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+---
+
 <p align="center">
 Check out my repos ⬇️  
 </p>
