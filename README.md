@@ -22,7 +22,7 @@
 <br><br>
 
 - 💬 Ask me about **Python, Django, PostgreSQL and NodeJS**
-- Currently learning **AWS, Testing and Automation using Selenium**.
+- Currently learning **Next.js, Testing and Automation using Selenium**.
 
 - 📫 How to reach me **agsalamh@gmail.com**
 
