@@ -22,7 +22,7 @@
 <br><br>
 
 - 💬 Ask me about **Python, Django, PostgreSQL and NodeJS**
-- Currently learning **AWS, CI/CD pipelines**.
+- Currently learning **AWS, CI/CD pipelines and GoLang**.
 
 - 📫 How to reach me **agsalamh@gmail.com**
 
