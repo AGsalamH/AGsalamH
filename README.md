@@ -22,7 +22,7 @@
 <br><br>
 
 - 💬 Ask me about **Python, Django, PostgreSQL and NodeJS**
-- Currently learning **'AWS, Microservices and GoLang**.
+- Currently learning **AWS, Microservices and GoLang**.
 
 - 📫 How to reach me **agsalamh@gmail.com**
 
