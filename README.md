@@ -63,7 +63,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
   </a>
 </p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
